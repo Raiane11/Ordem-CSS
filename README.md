@@ -17,3 +17,4 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 ## 👩‍💻 Execução:
 
+![execução](https://user-images.githubusercontent.com/107886724/224848214-3afb5c58-e21d-4d35-964a-4add6bdc900d.PNG)
