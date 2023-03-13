@@ -9,4 +9,11 @@ propriedade que precisamos alterar.
 pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso
 no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
-#O Projeto consiste na ordenação alfabética de propriedades de CSS.
+### A-Z: O projeto consiste na ordenação alfabética de propriedades de CSS.
+
+## 🖥️ O código:
+
+![código](https://user-images.githubusercontent.com/107886724/224846170-6a3caea6-b0f0-4acb-8bb4-309d018ae9c2.PNG)
+
+## 👩‍💻 Execução:
+
